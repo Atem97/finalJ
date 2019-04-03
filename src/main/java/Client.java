@@ -7,7 +7,7 @@
 public class Client {
     
     private String name = "Sin nombre";
-    private String lastName = "Sin apellido";
+    private Strindg lastName = "Sin apellido";
 
     public Client() {
     }
